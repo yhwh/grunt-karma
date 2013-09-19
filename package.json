@@ -3,6 +3,7 @@
   "version": "0.7.2",
   "description": "grunt plugin for karma test runner",
   "main": "tasks/grunt-karma.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/yhwh/grunt-karma.git"
